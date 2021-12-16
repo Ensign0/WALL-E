@@ -1,3 +1,3 @@
 # WALL-E
 
-Hello
+This bot is a moderation bot
